@@ -31,3 +31,5 @@ Bu veri seti, haberlerin sahte veya gerçek olup olmadığını belirlemek için
    Gözetimsiz öğrenme algoritmalarından biri olan KMeans, haberleri kümeleyerek gruplayıp hangi haberlerin sahte veya gerçek olduğunu kümeleme yaklaşımı ile belirlemeye çalışır. Bu model, metin özelliklerine dayalı olarak verileri iki kümeye ayırır.
 
 Her iki modelin de performansları karşılaştırılmış ve model sonuçlarına göre değerlendirilmiştir. **Logistic Regression**, denetimli bir yöntem olarak daha iyi performans göstermiştir. **KMeans** ise farklı küme sayılarıyla denenmiş, ancak denetimsiz bir yöntem olması nedeniyle sınıflandırma performansı düşük kalmıştır.
+
+### https://www.kaggle.com/models/berkegirgin/news_detection/
